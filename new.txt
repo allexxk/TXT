@@ -1,0 +1,4 @@
+full nsme: Kiselev Aleksandr Viktorovich.
+Age: 35.
+number of pets: 1.
+future desired salary: 1500$
